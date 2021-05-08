@@ -1,0 +1,207 @@
+Name,Start Date,Role,Role Level,Vendor,Product,Prod Start Date,Prod End Date,resource product start date,resource product end date,Prod Build Location,Anchor,Work Intake Scoping,Interviewer,Security Maven,Accessibility,DevSecOps,Education Track,Location,E/C,Color (Y/N),Gender,Available for Other areas,Skill 1,Skill 2,Skill 3,Skill 4,Skill 5,Burnout_rate
+Resource 2,11/29/17,Engr,Senior,,Product 1,01/04/21,12/24/21,01/04/21,12/24/21,IL,,,,,,,,IL,E,N,M,Y,,Cloud ,,,,0.1841
+Resource 3,01/01/18,Engr,Senior,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,Y,,Y,,,,,IL,E,Y,M,N,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.067
+Resource 6,01/08/18,Engr,Senior,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,,,,,IL,E,N,M,Y,.NET,Cloud ,,,,0.0851
+Resource 7,01/08/18,Engr,Senior,,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,Y,,,,,,,IL,E,Y,F,Y,.NET,Cloud ,,,,0.0668
+Resource 8,01/08/18,Engr ,Senior,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,IL,E,N,M,,,,,,,0.1827
+Resource 9,01/22/18,Engr,Senior,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,Y,Y,,,,IL,E,Y,M,Y,.NET,Cloud ,,,,0.7613
+Resource 10,01/29/18,Engr,Senior,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,IL,E,N,M,Y,.NET,Cloud ,,,,0.2819
+Resource 11,02/26/18,Engr,Senior,,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,Y,,Y,,Y,,,IL,E,N,M,Y,Mainframe,Cloud ,,,,0.1169
+Resource 13,03/05/18,Engr,Senior,,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,Y,,,,,Y,,IL,E,N,M,N,,,,,,0.1968
+Resource 14,03/05/18,Engr,Senior,,Product 10,02/12/21,12/24/21,02/26/21,12/24/21,AZ,,,Y,,,,,IL,E,Y,M,Y,Legacy Java,Cloud ,IBM/Websphere,,,0.287
+Resource 15,03/05/18,PM,,,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,,,,,,,,IL,E,Y,M,N,,,,,,0.2735
+Resource 16,03/12/18,Engr,Senior,,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,Y,,Y,,,,,IL,E,Y,M,Y,Legacy Java,Cloud ,SiteMinder,,,0.08
+Resource 17,03/19/18,PM,,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,IL,E,N,M,,,Cloud ,,,,0.2109
+Resource 18,04/02/18,Engr,Senior,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,Y,,,,,,Y,IL,E,Y,F,N,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.1696
+Resource 20,04/09/18,PM,,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,IL,E,N,F,,.NET,Cloud ,,,,0.0318
+Resource 21,04/09/18,UX,,,Product 1,01/04/21,12/24/21,01/04/21,12/24/21,IL,,,,,,,,IL,E,N,F,,.NET,Cloud ,,,,0.1331
+Resource 22,04/16/18,UX,,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,IL,E,Y,F,,,,,,,0.0671
+Resource 23,04/23/18,Engr,Senior,,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,Y,,Y,,,,,IL,E,Y,M,N,.NET,Cloud ,,,,0.1468
+Resource 24,07/09/18,Engr,Senior,,Product 14,03/15/21,,03/15/21,,AZ,Y,,Y,Y,,,,IL,E,Y,M,N,.NET,Cloud ,,,,0.056
+Resource 25,07/09/18,UX,,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,,,,,IL,E,Y,M,,Mainframe,Cloud ,,,,0.641
+Resource 26,07/16/18,Engr,Senior,,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,Y,,Y,,,,,IL,E,N,M,N,,,,,,0.1095
+Resource 27,07/16/18,PM,,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,IL,E,N,F,,Legacy Java,Cloud ,IBM/Websphere,,,0.0462
+Resource 28,07/30/18,Engr,Mid,,Product 1,01/04/21,12/24/21,01/04/21,06/25/21,IL,Y,,Y,,,,,IL,E,N,M,Y,,,,,,0.1708
+Resource 29,08/17/18,PM,,,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,,,,,,,,AZ,E,Y,F,,Legacy Java,Cloud ,SiteMinder,,,0.2704
+Resource 30,08/20/18,Engr,Mid,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,AZ,E,Y,M,,,Cloud ,,,,0.1742
+Resource 31,09/17/18,Engr,Mid,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,Y,,,,,,,IL,E,N,M,N,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.8727
+Resource 32,10/01/18,Engr,Mid,,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,,,,,,,,IL,E,Y,M,Y,.NET,Cloud ,,,,0.2269
+Resource 33,10/01/18,Engr,Mid,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,AZ,E,N,M,,.NET,Cloud ,,,,0.6272
+Resource 34,10/08/18,Engr,Mid,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,IL,E,Y,M,Y,,,,,,0.0326
+Resource 35,10/08/18,PM ,,,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,,,,IL,E,Y,F,,.NET,Cloud ,,,,0.273
+Resource 36,10/08/18,PM,,,Product 10,02/12/21,12/24/21,02/12/21,12/24/21,AZ,,,,,,,,AZ,E,Y,F,,.NET,Cloud ,,,,0.0021
+Resource 37,10/15/18,PM,,,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,AZ,E,N,F,,Mainframe,Cloud ,,,,0.0647
+Resource 38,10/15/18,Engr,Mid,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,Y,,Y,,,,,IL,E,Y,M,Y,,,,,,0.0447
+Resource 39,10/29/18,Engr,Mid,,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,Y,,Y,,,Y,,IL,E,N,M,N,Legacy Java,Cloud ,IBM/Websphere,,,0.2307
+Resource 40,11/05/18,Engr,Mid,,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,Y,,,,,,,IL,E,Y,M,Y,,,,,,0.2637
+Resource 41,11/05/18,PM,,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,,,,,IL,E,N,F,,Legacy Java,Cloud ,SiteMinder,,,0.0759
+Resource 42,11/12/18,UX,,,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,,,,,,,,IL,E,N,F,,,Cloud ,,,,0.2161
+Resource 43,11/26/18,Engr,Mid,,Product 10,02/12/21,12/24/21,02/26/21,12/24/21,AZ,,,,,,,,AZ,E,N,F,,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.4617
+Resource 44,12/03/18,PM,,,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,,,,,AZ,E,Y,M,,.NET,Cloud ,,,,0.6961
+Resource 45,12/10/18,PM,,,Product 14,03/15/21,,03/15/21,,AZ,,,,,,,,IL,E,N,F,,.NET,Cloud ,,,,0.2656
+Resource 46,12/17/18,Engr,Mid,,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,AZ,E,N,F,,,,,,,0.0618
+Resource 47,12/17/18,Engr,Mid,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,,,,,AZ,E,N,M,,.NET,Cloud ,,,,0.1983
+Resource 48,12/17/18,Engr,Mid,,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,,,,,TX,E,N,M,,.NET,Cloud ,,,,0.2744
+Resource 49,01/07/19,PM,,,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,,,,,IL,E,Y,M,,Mainframe,Cloud ,,,,0.1571
+Resource 50,01/07/19,Engr,Mid,,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,,,,,IL,E,Y,F,N,,,,,,0.0088
+Resource 51,01/07/19,Engr,Junior,,Product 1,01/04/21,12/24/21,01/04/21,12/24/21,IL,Y,,Y,,Y,,,IL,E,Y,M,Y,Legacy Java,Cloud ,IBM/Websphere,,,0.0882
+Resource 52,01/07/19,Engr,Junior,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,IL,E,N,M,N,,,,,,0.2711
+Resource 53,01/14/19,Engr,Junior,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,Y,,,,,,,IL,E,N,M,N,Legacy Java,Cloud ,SiteMinder,,,0.1519
+Resource 54,01/14/19,Engr,Junior,,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,Y,,Y,Y,,,,IL,E,N,M,N,,Cloud ,,,,0.1593
+Resource 55,01/14/19,Engr,Junior,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,TX,E,Y,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.23
+Resource 56,01/21/19,Engr,Junior,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,Y,,Y,,,,,IL,E,N,M,N,.NET,Cloud ,,,,0.0672
+Resource 57,01/28/19,Engr,Junior,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,IL,E,N,M,N,.NET,Cloud ,,,,0.046
+Resource 58,02/04/19,PM,,,Product 1,01/04/21,12/24/21,01/04/21,12/24/21,IL,,,,,,,,IL,E,N,F,,,,,,,0.1008
+Resource 59,02/04/19,Engr,Junior,,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,,,,IL,E,Y,M,N,.NET,Cloud ,,,,0.0871
+Resource 60,02/04/19,Engr,Junior,,Product 10,02/12/21,12/24/21,02/26/21,12/24/21,AZ,Y,,Y,,,,,IL,E,N,M,N,.NET,Cloud ,,,,0.0449
+Resource 61,03/04/19,Engr,Junior,,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,IL,E,Y,M,N,Mainframe,Cloud ,,,,0.1544
+Resource 62,03/18/19,Engr,Junior,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,Y,,,,TX,E,N,M,,,Cloud ,,,,0.0068
+Resource 63,04/01/19,Engr,Junior,,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,,,,,IL,E,N,M,N,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.2197
+Resource 64,04/15/19,Engr,Junior,,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,Y,,,,IL,E,N,F,N,.NET,Cloud ,,,,0.1379
+Resource 65,04/15/19,Engr,Mid,,Product 1,01/04/21,12/24/21,01/04/21,05/31/21,IL,Y,,Y,,,,,IL,E,Y,M,Y,.NET,Cloud ,,,,0.2384
+Resource 66,04/22/19,UX,,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,AZ,E,N,F,,,,,,,0.1313
+Resource 67,04/22/19,Engr,Mid,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,Y,,,,TX,E,N,M,,.NET,Cloud ,,,,0.042
+Resource 68,05/06/19,Engr,Mid,,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,Y,,,,,,,IL,E,N,M,N,.NET,Cloud ,,,,0.1675
+Resource 69,06/03/19,Engr,Mid,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,Y,,,TX,E,N,M,,Mainframe,Cloud ,,,,0.9262
+Resource 70,06/03/19,Engr,Mid,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,TX,E,N,M,,,Cloud ,,,,0.1291
+Resource 71,06/10/19,Engr,Mid,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,Y,,Y,,,,,IL,E,N,M,N,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.1577
+Resource 72,06/10/19,Engr,Mid,,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,,,,,,,,AZ,E,Y,F,,.NET,Cloud ,,,,0.0645
+Resource 73,06/17/19,Engr,Mid,,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,Y,,Y,,,,,IL,E,N,M,N,.NET,Cloud ,,,,0.1883
+Resource 74,06/17/19,Engr,Mid,,Product 10,02/12/21,12/24/21,02/26/21,06/25/21,AZ,,,,Y,,,,AZ,E,Y,M,,,,,,,0.255
+Resource 75,06/24/19,Engr,Mid,,Product 11,03/01/21,10/29/21,03/01/21,08/20/21,TX,,,,,,,,AZ,E,N,M,,.NET,Cloud ,,,,0.472
+Resource 76,10/14/19,Engr,Mid,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,,,,,IL,E,N,M,,.NET,Cloud ,,,,0.1183
+Resource 77,10/21/19,Engr,Mid,,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,Y,,,,IL,E,Y,M,,Mainframe,Cloud ,,,,0.0026
+Resource 78,11/18/19,Engr,Mid,,Product 14,03/15/21,,03/15/21,,AZ,,,,,Y,,,AZ,E,Y,F,,,Cloud ,,,,0.1475
+Resource 79,11/18/19,Engr,Mid,Vendor 1,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,,,,,IL,C,Y,F,,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.1746
+Resource 81,01/06/20,UX,,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,IL,E,N,M,,.NET,Cloud ,,,,0.1136
+Resource 82,01/13/20,UX,,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,IL,E,N,F,,.NET,Cloud ,,,,0.0386
+Resource 83,01/13/20,UX,,,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,,,,,,,,IL,E,N,M,,,,,,,0.4098
+Resource 84,02/10/20,UX,,,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,,,,IL,E,N,F,,.NET,Cloud ,,,,0.0059
+Resource 85,02/10/20,UX,,,Product 10,02/12/21,12/24/21,02/12/21,12/24/21,AZ,,,,,,,,TX,E,Y,M,,.NET,Cloud ,,,,0.089
+Resource 86,03/16/20,UX,,,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,AZ,E,N,F,,Mainframe,Cloud ,,,,0.2695
+Resource 87,03/16/20,UX,,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,,,,,IL,E,N,M,,,Cloud ,,,,0.1526
+Resource 91,04/27/20,Engr ,Senior,Vendor 9,Product 16,03/22/21,09/24/21,04/27/21,06/25/21,IL,,,,,,,,AZ,C,N,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.4841
+Resource 93,05/11/20,PM,,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,IL,E,Y,M,,.NET,Cloud ,,,,0.0578
+Resource 95,05/25/20,Engr ,Junior,Vendor 1,Product 1,01/04/21,12/24/21,01/04/21,12/24/21,IL,,,,,,,,IL,C,N,M,,.NET,Cloud ,,,,0.0634
+Resource 96,06/01/20,PM,,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,,,,,IL,E,Y,F,,,,,,,0.1431
+Resource 97,06/01/20,Engr,Junior,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,IL,E,N,M,,.NET,Cloud ,,,,0.4611
+Resource 98,06/15/20,UX,,,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,,,,,IL,E,Y,M,,.NET,Cloud ,,,,0.284
+Resource 99,06/22/20,Engr,Junior,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,,,,,IL,E,N,M,,Mainframe,Cloud ,,,,0.1482
+Resource 102,07/13/20,Engr ,Junior,Vendor 9,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,,,,,,,,IL,C,N,M,,,Cloud ,,,,0.1993
+Resource 103,07/13/20,Engr ,Junior,Vendor 1,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,TX,C,N,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.1031
+Resource 104,07/13/20,Engr,Junior,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,Y,,,IL,E,Y,M,,.NET,Cloud ,,,,0.2388
+Resource 105,07/13/20,Engr ,Junior,Vendor 1,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,IL,C,Y,M,,.NET,Cloud ,,,,0.6453
+Resource 106,08/03/20,Engr,Junior,Vednor 3,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,,,,,,,,IL,C,Y,M,,,Cloud ,,,,0.1186
+Resource 107,08/03/20,Engr,Junior,,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,Y,,,IL,E,N,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.2676
+Resource 109,08/10/20,Engr,Junior,Vednor 3,Product 10,02/12/21,12/24/21,02/26/21,12/24/21,AZ,,,,,,,,IL,C,Y,F,,.NET,Cloud ,,,,0.094
+Resource 110,08/10/20,Engr ,Junior,Vednor 4,Product 11,03/01/21,10/29/21,03/01/21,08/20/21,TX,,,,,,,,AZ,C,N,F,,.NET,Cloud ,,,,0.0363
+Resource 111,08/17/20,Engr,Junior,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,Y,,,,,,,IL,E,N,F,,,,,,,0.035
+Resource 112,08/24/20,Engr ,Junior,Vendor 9,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,,,,,IL,C,Y,F,,.NET,Cloud ,,,,0.0163
+Resource 113,08/31/20,Engr ,Junior,Vednor 4,Product 14,03/15/21,,03/15/21,,AZ,,,,,,,,IL,C,Y,M,,.NET,Cloud ,,,,0.1629
+Resource 114,09/08/20,Engr,Junior,,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,,,,,IL,E,Y,M,,Mainframe,Cloud ,,,,0.058
+Resource 115,09/08/20,Engr,Mid,,Product 1 ,01/04/21,12/24/21,01/04/21,12/24/21,IL,,,Y,,,,,IL,E,Y,M,,,Cloud ,,,,0.1529
+Resource 117,09/13/20,Engr,Mid,,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,IL,E,N,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.1309
+Resource 122,09/14/20,Engr,Mid,Vednor 3,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,,,,,TX,C,N,F,,.NET,Cloud ,,,,0.1956
+Resource 123,09/14/20,UX,,,Product 14,03/15/21,,03/15/21,,AZ,,,,,,,,IL,E,N,M,,.NET,Cloud ,,,,0.0344
+Resource 124,09/21/20,Engr,Mid,,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,,,,,,,,TX,E,Y,F,,,,,,,0.2396
+Resource 125,09/21/20,Engr,Mid,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,AZ,E,Y,M,,.NET,Cloud ,,,,0.1938
+Resource 127,09/21/20,Engr,Mid,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,AZ,E,N,M,,.NET,Cloud ,,,,0.1589
+Resource 128,09/28/20,Engr ,Mid,Vendor 9,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,IL,C,Y,M,,Mainframe,Cloud ,,,,0.1826
+Resource 129,09/28/20,UX,,,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,,,,,IL,E,N,M,,,Cloud ,,,,0.7367
+Resource 130,09/28/20,Engr,Mid,,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,,,Y,,,,,IL,E,Y,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.1293
+Resource 133,10/12/20,Engr ,Mid,Vednor 4,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,,,,IL,C,Y,F,,.NET,Cloud ,,,,0.1212
+Resource 134,10/19/20,UX,,,Product 1,01/04/21,12/24/21,01/04/21,12/24/21,IL,,,,,,,,IL,E,Y,F,,.NET,Cloud ,,,,0.6957
+Resource 136,10/19/20,UX,,Vendor 4,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,AZ,C,N,F,,,,,,,0.2334
+Resource 138,11/02/20,Engr ,Mid,Vednor 4,Product 10,02/12/21,12/24/21,02/26/21,12/24/21,AZ,,,,,,,,AZ,C,Y,M,,.NET,Cloud ,,,,0.0151
+Resource 139,11/02/20,Engr ,Mid,Vendor 9,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,AZ,C,N,M,,.NET,Cloud ,,,,0.0213
+Resource 140,11/09/20,Engr ,Mid,Vednor 4,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,,,,,AZ,C,Y,M,,Mainframe,Cloud ,,,,0.2573
+Resource 142,11/16/20,Engr,Mid,Vednor 3,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,,,,,IL,C,N,F,,,Cloud ,,,,0.2365
+Resource 144,11/16/20,UX,,,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,,,,,AZ,E,N,F,,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.2514
+Resource 146,11/30/20,PM ,,,,,,,,,,,,,,,,TX,E,N,F,,.NET,Cloud ,,,,0.1657
+Resource 147,11/30/20,UX,,Vendor 4,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,,,,,,,,IL,C,Y,M,,.NET,Cloud ,,,,0.4422
+Resource 148,12/14/20,Engr ,Mid,Vednor 4,Product 14,03/15/21,,03/15/21,,AZ,,,,,,,,IL,C,N,F,,,,,,,0.235
+Resource 149,12/14/20,Engr ,Mid,Vednor 7,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,,,,,TX,C,N,F,,.NET,Cloud ,,,,0.004
+Resource 150,12/14/20,Engr ,Junior,Vendor 1,Product 1 ,01/04/21,12/24/21,01/04/21,12/24/21,IL,,,,,,,,IL,C,N,M,,.NET,Cloud ,,,,0.5882
+Resource 151,12/21/20,Engr ,Junior,Vednor 4,Product 2,01/24/21,12/24/21,01/24/21,12/24/21,AZ,,,,,,,,IL,C,N,M,,Mainframe,Cloud ,,,,0.2572
+Resource 152,01/04/21,PM ,,,,,,,,,,,,,,,,IL,E,Y,M,,,Cloud ,,,,0.0012
+Resource 153,01/04/21,Engr,Junior,Vednor 3,Product 3,01/31/21,12/24/21,01/31/21,12/17/21,IL,,,,,,,,IL,C,Y,F,,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.0226
+Resource 154,01/04/21,Engr,Junior,,,,,,,,,,,,Y,,,TX,E,Y,M,,.NET,Cloud ,,,,0.1409
+Resource 155,01/11/21,Engr,Junior,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,AZ,E,N,M,,.NET,Cloud ,,,,0.14
+Resource 156,01/11/21,Engr,Junior,,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,AZ,E,N,M,,,,,,,0.1046
+Resource 157,01/17/21,Engr,Junior,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,IL,E,N,M,,.NET,Cloud ,,,,0.0385
+Resource 158,01/25/21,UX ,,,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,IL,E,Y,M,,.NET,Cloud ,,,,0.7559
+Resource 159,02/01/21,Engr ,Junior,Vednor 4,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,,,,,,,,AZ,C,N,M,,Mainframe,Cloud ,,,,0.0195
+Resource 160,02/08/21,UX,,Vendor 4,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,IL,C,N,M,,,Cloud ,,,,0.2702
+Resource 161,02/08/21,Engr ,Junior,Vednor 4,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,,,,AZ,C,N,F,,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.1402
+Resource 162,02/15/21,Engr ,Junior,Vendor 5,Product 10,02/12/21,12/24/21,02/26/21,07/23/21,AZ,,,,,,,,IL,C,Y,M,,.NET,Cloud ,,,,0.1892
+Resource 163,02/15/21,Engr ,Junior,Vendor 5,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,IL,C,N,M,,.NET,Cloud ,,,,0.5122
+Resource 164,02/15/21,Engr ,Junior,Vendor 5,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,,,,,TX,C,Y,M,,,,,,,0.097
+Resource 165,02/15/21,Engr ,Junior,Vendor 5,Product 13,03/08/21,12/24/21,03/08/21,12/24/21,IL,,,,,,,,AZ,C,N,M,,.NET,Cloud ,,,,0.0269
+Resource 166,03/01/21,Engr ,Junior,Vendor 5,Product 14,03/15/21,,03/15/21,,AZ,,,,,,,,IL,C,N,M,,.NET,Cloud ,,,,0.1776
+Resource 167,03/03/21,Engr ,Junior,Vednor 4,Product 15,03/22/21,09/24/21,03/22/21,09/24/21,TX,,,,,,,,AZ,C,N,F,,Mainframe,Cloud ,,,,0.0242
+Resource 168,03/03/21,Engr ,Mid,Vendor 5,Product 1 ,01/04/21,12/24/21,03/03/21,12/24/21,IL,,,,,,,,IL,C,Y,M,,,,,,,0.2974
+Resource 169,03/08/21,PM,,,,,,,,,,,,,,,,AZ,E,N,F,,Legacy Java,Cloud ,IBM/Websphere,,,0.1512
+Resource 170,03/08/21,Engr,Mid,Vednor 3,Product 2,01/24/21,12/24/21,03/08/21,12/24/21,AZ,,,,,,,,IL,C,N,M,,,,,,,0.1638
+Resource 171,03/15/21,Engr,Mid,,Product 3,01/31/21,12/24/21,03/15/21,12/17/21,IL,,,,,,,,AZ,E,N,M,,Legacy Java,Cloud ,SiteMinder,,,0.0726
+Resource 172,03/15/21,Engr ,Mid,Vendor 6,Product 4,02/07/21,05/21/21,03/15/21,05/21/21,IL,,,,,,,,AZ,C,N,M,,,Cloud ,,,,0.0211
+Resource 173,03/15/21,UX,,,Product 7,03/14/21,11/19/21,03/14/21,11/19/21,IL,,,,,,,,TX,E,N,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.1772
+Resource 174,03/15/21,UX ,,Vendor 6,Product 8,03/28/21,12/24/21,03/28/21,12/24/21,TX,,,,,,,,AZ,C,N,M,,.NET,Cloud ,,,,0.7234
+Resource 175,03/15/21,PM,,Vendor 7,Product 4,02/07/21,05/21/21,02/07/21,05/21/21,IL,,,,,,,,AZ,C,Y,F,,.NET,Cloud ,,,,0.0518
+Resource 176,03/15/21,PM,,Vendor 7,Product 5,02/21/21,12/03/21,02/21/21,12/03/21,AZ,,,,,,,,IL,C,N,M,,,,,,,0.0671
+Resource 177,03/15/21,Engr,Mid,Vendor 1,Product 5,02/21/21,12/03/21,03/15/21,12/03/21,AZ,,,,,,,,TX,C,Y,M,,.NET,Cloud ,,,,0.1462
+Resource 178,03/15/21,UX ,,Vendor 6,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,,,,RI,C,N,M,,.NET,Cloud ,,,,0.083
+Resource 179,03/22/21,Engr ,Mid,Vendor 6,Product 6,02/28/21,12/17/21,03/22/21,12/17/21,AZ,,,,,,,,AZ,C,N,M,,Mainframe,Cloud ,,,,0.7402
+Resource 180,03/22/21,Engr ,Mid,Vendor 5,Product 7,03/14/21,11/19/21,03/22/21,11/19/21,IL,,,,,,,,IL,C,Y,M,,,,,,,0.1732
+Resource 181,03/22/21,Engr,Mid,,,,,,,,,,,,,,,TX,E,Y,F,,Legacy Java,Cloud ,IBM/Websphere,,,0.2795
+Resource 182,03/22/21,PM,,,,,,,,,,,,,,,,TX,E,Y,F,,,,,,,0.1588
+Resource 183,03/22/21,Engr ,Mid,Vednor 4,Product 9,04/05/21,12/31/21,04/05/21,12/31/21,IL,,,,,,,,IL,C,N,M,,Legacy Java,Cloud ,SiteMinder,,,0.9696
+Resource 184,03/22/21,Engr ,Mid,Vendor 6,Product 10,02/12/21,12/24/21,03/22/21,12/24/21,AZ,,,,,,,,AZ,C,N,F,,,Cloud ,,,,0.1887
+Resource 185,03/29/21,UX,,Vendor 4,,,,,, ,,,,,,,,IL,C,N,M,,Legacy Java,Cloud ,IBM/Websphere,Angular,,0.0508
+Resource 186,03/29/21,UX,,,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,IL,E,N,F,,.NET,Cloud ,,,,0.1657
+Resource 187,03/29/21,UX,,,Product 12,03/01/21,10/29/21,03/01/21,10/29/21,IL,,,,,,,,IL,E,Y,M,,.NET,Cloud ,,,,0.0482
+Resource 188,03/29/21,Engr ,Mid,Vendor 5,Product 11,03/01/21,10/29/21,03/01/21,10/29/21,TX,,,,,,,,IL,C,N,F,,,,,,,0.001
+Resource 189,04/05/21,PM ,,,,,,,,,,,,,,,,AZ,E,N,M,,.NET,Cloud ,,,,0.0242
+Resource 190,04/19/21,Engr,Mid,,Product 12,03/01/21,10/29/21,04/19/21,10/29/21,IL,,,,,,,,AZ,E,Y,F,,.NET,Cloud ,,,,0.1162
+Resource 191,04/26/21,PM,,Vednor 6,Product 6,02/28/21,12/17/21,02/28/21,12/17/21,AZ,,,,,,,,IL,C,Y,F,,Mainframe,Cloud ,,,,0.2907
+Resource 192,04/19/21,Engr ,Mid,Vendor 5,Product 13,03/08/21,12/24/21,04/19/21,12/24/21,IL,,,,,,,,TX,C,N,M,,,,,,,0.0505
+Resource 193,04/26/21,Engr ,Mid,Vendor 5,,,,,,,,,,,,,,IL,C,N,F,,Legacy Java,Cloud ,IBM/Websphere,,,0.1175
+Resource 194,04/26/21,PM,,,,,,,,,,,,,,,,AZ,E,N,M,,,,,,,0.074
+Resource 195,04/26/21,Engr ,Mid,Vendor 9,Product 15,03/22/21,09/24/21,04/26/21,09/24/21,TX,,,,,,,,IL,C,N,F,,Legacy Java,Cloud ,SiteMinder,,,0.4052
+Resource 196,05/03/21,UX,,,,,,,,,,,,,,,,TX,E,Y,M,,Legacy Java,Cloud ,IBM/Websphere,,,0.2223
+Resource 199,05/10/21,Engr,Junior,Vednor 3,Product 4,02/07/21,05/21/21,05/10/21,05/21/21,IL,,,,,,,,IL,C,N,F,,,,,,,0.1663
+Resource 200,05/10/21,Engr,Junior,Vendor 2,,,,,,,,,,,,,,IL,C,N,M,,Legacy Java,Cloud ,SiteMinder,,,0.0617
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
