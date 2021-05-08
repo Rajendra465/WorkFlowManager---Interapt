@@ -1,14 +1,7 @@
 # WorkFlowManager---Interapt
 
-## Problem Statement
-In most of the organisations, current workflow monitoring & management is too much manual and involves so many human intervention to accomplish the project. Currently for any project, Choosing the right employee for the right place is very significant for the sucess of the project. However, current system majorly relies on factors such as performance, biasness, familiarity, position etc. However, It doesn't include any factors which affect harmony of their lives. Neglecting these factors may cause poor performance which leads to failure of the project.
 
-Also, Current mechanism of pulling up information of any particular project requires lots of time, meetings & efforts of people inorder to clarifying all the queries & complete the project before the deadline.
-
-## Solution
-To overcome all the above mentioned problems, we will have a system which will not only reduce the human intervention but also will save lots of efforts & time.
-
-Resource Allocation
+## Resource Allocation
 In order to automate the allocation of right emplyees at the right place, sytsem first will take inputs such as Project Information, Required Skills, working experience, expertise etc. and will map the respective employees based on ther skills and working experience and will find the list of right employees for the project. But, work doesn't stop here as it maybe possible that topmost employees in the list may not have the capacity to take further work or he/she is already streesed out so would need to reorder the list based on the capacity of the employee. So, system will reorder the list based on many factors which contributes towards their work-life balance so employee may not burnout from overwork.
 
 ### Burnout Rate Prediction -
