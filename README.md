@@ -11,3 +11,33 @@ This recommendated list will overcome the drawback of biasness & familarity and 
 
 ## Information Pulling
 System will also have a AI conversational chatbot which will not only help to pull up the information of any particular project but also make sure to complete the appointed tasks of the employees by taking regular updates from them in a real time & can understand every response given by them.
+
+### Libraries & Tech Stcak Used
+
+#### Python
+* pandas==1.2.4
+* numpy==1.18.5
+* regex==2020.9.27
+* requests==2.25.1
+* rasa==2.5.0
+* rasa-sdk==2.5.0
+* rasa-x==0.39.0
+
+![image](https://user-images.githubusercontent.com/75628700/117559479-5c527e00-b0a3-11eb-990e-b6ec70225df7.png)
+![image](https://user-images.githubusercontent.com/75628700/117559483-62e0f580-b0a3-11eb-8b26-2fffa071b6c4.png)
+![image](https://user-images.githubusercontent.com/75628700/117559487-6aa09a00-b0a3-11eb-8742-e6433bc13695.png)
+
+
+## Instuctions to Run
+* Install all the dependencies using 'requirements.txt'.
+* Run 'rasa x' command in the cmd terminal
+* Click on Talk to bot.
+
+Now you can communicate with bot.
+
+#### Team Name - sarpal465_4fea
+* Rajendra Sarpal
+
+Student Developer:
+* Madeleine Emmons
+
