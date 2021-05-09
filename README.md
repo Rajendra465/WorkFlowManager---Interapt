@@ -1,18 +1,10 @@
 # WorkFlowManager---Interapt
 
+In order to automate the allocation of right employees at the right place, system first will take inputs such as Project Information, Required Skills, working experience, expertise etc. and will map the respective employees based on their skills and working experience and will find the list of right employees for the project and will also consider the work life balance of each and every employee by calculating 'Burnout Rate' of each employee. This recommended list will overcome the drawback of biasness & familiarity and we will have suitable employees who are stress free and at the same time will have the required skills and capabilities in order to complete the project
 
-## Resource Allocation
-In order to automate the allocation of right emplyees at the right place, sytsem first will take inputs such as Project Information, Required Skills, working experience, expertise etc. and will map the respective employees based on ther skills and working experience and will find the list of right employees for the project. But, work doesn't stop here as it maybe possible that topmost employees in the list may not have the capacity to take further work or he/she is already streesed out so would need to reorder the list based on the capacity of the employee. So, system will reorder the list based on many factors which contributes towards their work-life balance so employee may not burnout from overwork.
+System will also have a AI conversational chatbot which will not only help to pull up the information of any particular project but also make sure to complete the appointed tasks. It will be easy to adapt this solution as user will not require to remember any specific command/process for desirable output. User can simply ask any query at his own comfort and language which he uses to chat with other people in daily life. System will automatically understand given query using AI technologies(NLP + NLU) and can respond based on confidence score.
 
-### Burnout Rate Prediction -
-A Machine Learning model which will predict the burnout rate of the employee using factors such as growth rate, compensation & benefits, time since promotion, pay scale rating etc which will help us to determine whether the employee is stressed out or not also it also denotes that employees which are having high burnout rate they have higher chances to leave the organisation. So, using Burnout Rate, system will reorder the previous list and will recommend best suitable employees based on their skills, working experience and also their burnout rate.
-
-This recommendated list will overcome the drawback of biasness & familarity and we will have suitable emplyees who are stress free and at the same time required skills and capabilities inorder to complete the project.
-
-## Information Pulling
-System will also have a AI conversational chatbot which will not only help to pull up the information of any particular project but also make sure to complete the appointed tasks of the employees by taking regular updates from them in a real time & can understand every response given by them.
-
-### Libraries & Tech Stcak Used
+### Libraries & Tech Stack Used
 
 #### Python
 * pandas==1.2.4
