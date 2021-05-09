@@ -1,0 +1,28 @@
+version: "2.0"
+
+ules:
+
+- rule: payload
+  steps:
+  - intent: query10
+  - action: query_10
+
+- rule: payload
+  steps:
+  - intent: query9
+  - action: query_9
+
+- rule: payload
+  steps:
+  - intent: query8
+  - action: query_8
+
+- rule: payload
+  steps:
+  - intent: query7
+  - action: query_7
+
+- rule: payload
+  steps:
+  - intent: query6
+  - action: query_6

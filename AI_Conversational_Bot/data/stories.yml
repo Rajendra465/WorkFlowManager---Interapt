@@ -1,0 +1,40 @@
+version: "2.0"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: query1
+  - action: query_1
+  - intent: chitchat
+  - action: action_default_fallback
+
+- story: happy_path
+  steps:
+  - intent: query6
+  - action: query_6
+  - intent: query4
+  - action: query_4
+  - intent: query10
+  - action: query_10
+  - intent: chitchat
+  - action: action_default_fallback
+
+- story: test
+  steps:
+  - intent: query7
+  - action: query_7
+  - active_loop: query_7
+  - active_loop: null
+  - intent: query8
+  - action: query_8
+  - active_loop: query_8
+  - active_loop: null
+  - intent: query9
+  - action: query_9
+  - active_loop: query_9
+  - active_loop: null
+  - intent: chitchat
+  - action: action_default_fallback

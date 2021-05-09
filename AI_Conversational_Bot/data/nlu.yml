@@ -1,0 +1,76 @@
+version: "2.0"
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+- intent: query1
+  examples: |
+    - Need [1](im) intermediate, [1](jr) junior, [2](sr) senior resource available for new products starting on [May 15 2021](date) for build location in [IL](location)
+    - Need [2](im) intermediate, [2](jr) junior, [1](sr) senior resource available for new products starting on [May 19 2021](date) for build location in [AZ](location)
+    - Need [1](im) intermediate, [1](jr) junior, [1](sr) senior resource available for new products starting on [May 19 2021](date) for build location in [AZ](location)
+    - I need [4](im) intermediate, [2](jr), [1](sr) senior developers for upcoming project starting on [May 8 2021](date) for location in [IL](location)
+    - I need [7](im) intermediate, [2](jr), [1](sr) senior developers for upcoming project starting on [May 8 2021](date) for location in [AZ](location)
+    - I need [1](im) intermediate, [2](jr), [1](sr) senior developers for upcoming project starting on [May 8 2021](date) for location in [IL](location)
+- intent: query4
+  examples: |
+    - show me the resources locationwise
+    - what are the resources available locationwise?
+    - show me all the resources based on location
+    - list down the resources locationwise
+    - I need resources locationwise
+    - I need to display all the resources locationwise
+- intent: query6
+  examples: |
+    - how many contractor resources?
+    - How many contractor resources are there?
+    - show me the count for contractor resources
+    - how many vendorwise contractors are there
+    - list down the count for all the contractors
+    - dispaly the count for all the contractors
+- intent: query7
+  examples: |
+    - Who is the PM, UX or Anchor on a product [1](product)?
+    - give the names of pm, ux and anchor on a product [2](product).
+    - list down names of the pm, ux and anchor on a product [10](product).
+    - display the pm, ux and anchor for this product [5](product)
+    - show me the names of pm, ux and anchor on a product [7](product)
+- intent: query8
+  examples: |
+    - Who is the Security Maven on a product [1](product)?
+    - give the name of security mavenon of product [2](product).
+    - show the name of of security mavenon oa product [10](product).
+    - display the name of security mavenon for this product [5](product)
+    - can you help me to know the name of security mavenon for this product [4](product)
+- intent: query10
+  examples: |
+    - What is our diversity/Gender mix?
+    - what is gender distribution?
+    - show me the gender distribution
+    - i need gender distribution
+    - can you please help me to find gender diversity present in my data?
+    - what is male-female distribution?
+    - what is the geneder diversity present in my data?
+    - diversification rate in gender
+    - how much gender diversified based on data
+    - diversification of data
+    - show me gender diversity
+- intent: query9
+  examples: |
+    - show me the skillset for resource [1](resource)
+    - what is the skillset for resource [2](resource)
+    - what are the skills of resource [10](resource)?
+    - can you held me know the skillset of resource [15](resource)?
+    - list down the skills of resource [1](resource)?
+    - just show all the skillset of resource [7](resource)
