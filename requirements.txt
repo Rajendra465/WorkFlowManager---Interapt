@@ -1,0 +1,7 @@
+pandas==1.2.4
+numpy==1.18.5
+regex==2020.9.27
+requests==2.25.1
+rasa==2.5.0
+rasa-sdk==2.5.0
+rasa-x==0.39.0
