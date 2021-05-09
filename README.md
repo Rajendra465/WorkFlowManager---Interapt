@@ -17,7 +17,7 @@ System will also have a AI conversational chatbot which will not only help to pu
 
 ![image](https://user-images.githubusercontent.com/75628700/117559479-5c527e00-b0a3-11eb-990e-b6ec70225df7.png)
 ![image](https://user-images.githubusercontent.com/75628700/117559483-62e0f580-b0a3-11eb-8b26-2fffa071b6c4.png)
-![image](https://user-images.githubusercontent.com/75628700/117559487-6aa09a00-b0a3-11eb-8742-e6433bc13695.png)
+
 
 
 ## Instuctions to Run
