@@ -1,0 +1,179 @@
+version: '2.0'
+config:
+  store_entities_as_slots: true
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- chitchat:
+    use_entities: []
+- greet:
+    use_entities: true
+- name_entry:
+    use_entities: true
+- query1:
+    use_entities: true
+- query4:
+    use_entities: true
+- query6:
+    use_entities: true
+- query7:
+    use_entities: true
+- query8:
+    use_entities: true
+- query9:
+    use_entities: true
+- query10:
+    use_entities: true
+entities:
+- im
+- jr
+- sr
+- date
+- location
+- resource
+- product
+- skills
+- res
+- pm
+- ux
+- er
+slots:
+  im:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  jr:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  sr:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  date:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  location:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  male_per:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  female_per:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  resource:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  product:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  c_vw:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  c_lw:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  skills:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  res:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  pm:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  ux:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  er:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  name:
+    type: rasa.shared.core.slots.UnfeaturizedSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: false
+responses:
+  utter_greet:
+  - text: Hey! I am AI powered Workflow Manager to assist you. Please enter your query.
+  utter_query1:
+  - text: |-
+      Recommended list of Employees considering requirements as well as Burnout Rate:
+       Intermediate: {im}, 
+       Junior: {jr}, 
+       Senior: {sr}.
+  utter_query4:
+  - text: |-
+      Location wise Resources:
+       IL:{loc1}, 
+       
+       AX: {loc2}, 
+       
+       TX: {loc3}
+  utter_query6:
+  - text: |-
+      Contractor Resources:
+       Vendor-wise : {c_vw},
+       Location'wise : 
+      {c_lw}
+  utter_query9:
+  - text: |-
+      Skill of {resource}:
+       {skills}
+  utter_query7:
+  - text: |-
+      PM on a {product} is {pm}
+      UX on a {product} is {ux}
+       Engr on a {product} is {er}.
+  utter_query8:
+  - text: Security Maven on a {product} is {res}.
+  utter_query10:
+  - text: |-
+      I found the following diversity present in your data:
+       Males : {male_per}%,
+       Females : {female_per}%
+actions:
+- action_hello_world
+- query_1
+- query_4
+- query_6
+- query_10
+- query_9
+- query_7
+- query_8
+forms:
+  query_9: {}
+  query_7: {}
+  query_8: {}
+e2e_actions: []
